@@ -82,7 +82,7 @@ ul {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: url(imgs/landing.jpg);
+  background-image: url(../imgs/landing.jpg);
   background-size: cover;
   background-position: center;
 }
