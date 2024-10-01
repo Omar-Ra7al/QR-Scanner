@@ -1,7 +1,5 @@
 # QR Code Reader
 
-![QR Code Reader](https://example.com/path/to/your/screenshot.png) <!-- Replace with a screenshot URL -->
-
 ## Description
 
 The **QR Code Reader** is a web application that allows users to scan and decode QR codes using their device's camera. Built with HTML, CSS, and JavaScript, this project provides a user-friendly interface for quickly and easily reading QR codes. Whether for personal or professional use, this tool is designed to enhance the scanning experience.
